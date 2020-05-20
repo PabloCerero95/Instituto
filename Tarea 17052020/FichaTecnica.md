@@ -30,7 +30,7 @@ _______________________________________________________________
 
 **Precondiciones:** Que el usuario este registrado en la página con un mínimo de 2 meses
 
-Que el administrador tenga los poderes necesarios para revisar todos los mensajes de aportes de los usuarios
+Que el administrador tenga los permisos necesarios para revisar todos los mensajes de aportes de los usuarios
 
 _____________________________________________________________________________
 
@@ -52,7 +52,7 @@ _____________________________________________________________________________
 
 **Flujo Alternativo:** [3.A] El sistema de mensajería comprueba de que no se ha pasado el numero límites de caracteres, si es superado se le enviara una alerta al usuario de que ha superado el número de caracteres máximo.
 
-[4.A] El usuario no ha podido enviar el mensaje porque la web ha entrado en mantenimiento y se le ha devuelto a la página principal
+[3.B] El sistema de mensajeria comprueba de que no hay caracteres no permitidos por la aplicacion (Como emoticonos con movimientos etc..) y se le enviara una alerta al usuario diciendo de que este tipo de caracteres no esta permitido.
 
 ______________________________________________________________________________
 
