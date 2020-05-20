@@ -20,7 +20,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Descripción:** Permite crear mensajes de aportes para la mejorar de la web
+**Descripción:** Permite crear mensajes de aportes para la mejorar de la web, desde un campo de texto, donde
+tiene varias estilos de letras, emoticonos excluvisos de la propia pagina web y otras metodologias de escritura.
+Cuando se haya terminado todo se podrar enviar el mensaje al administrador.
 
 _______________________________________________________________
 
